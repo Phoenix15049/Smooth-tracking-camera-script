@@ -1,5 +1,5 @@
 # Smooth-tracking-camera-script
-This code applies smooth physical motions to the camera that tracking the target object.
+This code applies smooth physical movements to the camera that track the target object.You can use this code on Unity cameras.
 
 ![alt text](https://github.com/Phoenix15049/Smooth-tracking-camera-script/blob/main/Assets/MovingCamera.gif)
 
