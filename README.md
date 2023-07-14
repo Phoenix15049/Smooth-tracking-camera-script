@@ -1,6 +1,8 @@
 # Smooth-tracking-camera-script
 This code applies smooth physical motions to the camera that tracking the target object.
 
+![alt text](https://github.com/Phoenix15049/Smooth-tracking-camera-script/blob/main/Assets/MovingCamera.gif)
+
 ## Usage
 To use this script, apply it to the camera you are using.
 
@@ -14,3 +16,5 @@ A 3D vector that shows the distance of the camera to the target object.
 
 Smoothness :
 A floating-point number that shows the smoothness ratio of the camera movement.
+
+![alt text](https://github.com/Phoenix15049/Smooth-tracking-camera-script/blob/main/Assets/MovingCam.gif)
