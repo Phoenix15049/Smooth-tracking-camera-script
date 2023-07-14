@@ -4,7 +4,7 @@ This code applies smooth physical movements to the camera that track the target 
 ![alt text](https://github.com/Phoenix15049/Smooth-tracking-camera-script/blob/main/Assets/MovingCamera.gif)
 
 ## Usage
-To use this script, apply it to the camera you are using.
+To use this Unity C# script, apply it to the camera you are using.
 
 ![alt text](https://github.com/Phoenix15049/Smooth-tracking-camera-script/blob/main/Assets/MovingCamSetting.jpg)
 
